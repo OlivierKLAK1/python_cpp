@@ -6,6 +6,7 @@ COMPOSANT = hello_ext
 LIBSO = ${COMPOSANT}.so
 LIBSO_OBJS = ${COMPOSANT}.o
 
+
 include ../gcc.mk
 
 
